@@ -1,4 +1,4 @@
-package eu.merloteducation.jwtlib;
+package eu.merloteducation.jwtlib.security;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.security.authentication.AbstractAuthenticationToken;

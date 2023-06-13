@@ -1,4 +1,4 @@
-package eu.merloteducation.jwtlib;
+package eu.merloteducation.jwtlib.security;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
