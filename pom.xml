@@ -6,7 +6,7 @@
 
   <groupId>eu.merloteducation.jwtlib</groupId>
   <artifactId>jwtlib</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
 
   <name>jwtlib</name>
   <url>https://merlot-education.eu/</url>
